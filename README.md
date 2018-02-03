@@ -2,7 +2,22 @@
 
 Todos after installing Windows 10
 
-## Start
+## Table of Contents
+
+* [Todos](#todos)
+  1. [Clean up Start menu](#clean-up-start-menu)
+  1. [Clean up Taskbar](#clean-up-taskbar)
+  1. [Remove bloatware I](#remove-bloatware-i)
+  1. [Remove bloatware II](#remove-bloatware-ii)
+  1. [Adjust Privacy settings](#adjust-privacy-settings)
+  1. [Disable content indexing on SSDs](#disable-content-indexing-on-ssds)
+  1. [Install Windows updates](#install-windows-updates)
+  1. [Make File Explorer open This PC by default instead of Quick Access](#make-file-explorer-open-this-pc-by-default-instead-of-quick-access)
+  1. [Remap default folder locations to a separate HDD](#remap-default-folder-locations-to-a-separate-hdd)
+  1. [Disable Start-up processes](#disable-start-up-processes)
+* [References](#references)
+
+## Todos
 
 ### Clean up Start menu
 
@@ -19,12 +34,12 @@ Todos after installing Windows 10
 4. Turn off system icons you don't want to see. Personally, I'll turn off `Location`, `Action Center` and `Input Indicator`.
 5. Under `People`, turn off all switchboxes.
 
-### Bloatware Removal I
+### Remove bloatware I
 
 1. Go to `Settings > Apps > Apps & Features`.
 2. Uninstall all apps you don't need.
 
-### Bloatware Removal II
+### Remove bloatware II
 
 Download bloatware removal scripts from [W4RH4WK](https://github.com/W4RH4WK):
 ```
@@ -49,7 +64,7 @@ NOTE: You don't need to run all scripts. Just select the ones you want.
   > {script-filename}.ps1
   ```
 
-### Privacy
+### Adjust Privacy settings
 
 1. Go to `Settings > Privacy`.
 2. Under `General`, turn off all switchboxes.
@@ -68,13 +83,13 @@ If you installed Windows 10 on an SSD, you might want to disable content indexin
 
 ### STOP. Reboot PC first before proceeding.
 
-### Install Windows updates.
+### Install Windows updates
 
 1. Go to `Settings > Update & Security`.
 2. Click `Check for updates`.
 3. Wait for all updates to install.
 
-### Start downloading and installing your apps.
+### Start downloading and installing your apps
 
 ### Make File Explorer open This PC by default instead of Quick Access
 
@@ -93,7 +108,7 @@ As much as possible, your SSD should only contain Windows 10 and your apps. The 
 3. Change the target location to the location of your HDD. For example, to move `Documents` to drive `D:`, set the target location to `D:\Documents`.
 4. Click Apply.
 
-### Disable Start-up processes.
+### Disable Start-up processes
 
 1. Hit `Ctrl + Shift + Esc`.
 2. Under `Start-up`, select processes you want to disable.
