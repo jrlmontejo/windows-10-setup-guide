@@ -5,16 +5,16 @@ Todos after installing Windows 10
 ## Table of Contents
 
 * [Todos](#todos)
-  1. [Clean up Start menu](#clean-up-start-menu)
-  1. [Clean up Taskbar](#clean-up-taskbar)
-  1. [Remove bloatware I](#remove-bloatware-i)
-  1. [Remove bloatware II](#remove-bloatware-ii)
-  1. [Adjust Privacy settings](#adjust-privacy-settings)
-  1. [Disable content indexing on SSDs](#disable-content-indexing-on-ssds)
-  1. [Install Windows updates](#install-windows-updates)
-  1. [Make File Explorer open This PC by default instead of Quick Access](#make-file-explorer-open-this-pc-by-default-instead-of-quick-access)
-  1. [Remap default folder locations to a separate HDD](#remap-default-folder-locations-to-a-separate-hdd)
-  1. [Disable Start-up processes](#disable-start-up-processes)
+  * [Clean up Start menu](#clean-up-start-menu)
+  * [Clean up Taskbar](#clean-up-taskbar)
+  * [Remove bloatware I](#remove-bloatware-i)
+  * [Remove bloatware II](#remove-bloatware-ii)
+  * [Adjust Privacy settings](#adjust-privacy-settings)
+  * [Disable content indexing on SSDs](#disable-content-indexing-on-ssds)
+  * [Install Windows updates](#install-windows-updates)
+  * [Make File Explorer open This PC by default instead of Quick Access](#make-file-explorer-open-this-pc-by-default-instead-of-quick-access)
+  * [Remap default folder locations to a separate HDD](#remap-default-folder-locations-to-a-separate-hdd)
+  * [Disable Start-up processes](#disable-start-up-processes)
 * [References](#references)
 
 ## Todos
@@ -81,7 +81,7 @@ If you installed Windows 10 on an SSD, you might want to disable content indexin
 3. Under `General`, uncheck `Allow files on this drive to have contents indexed in addition to file properties`.
 4. Click Apply.
 
-### STOP. Reboot PC first before proceeding.
+## STOP. Reboot PC first before proceeding
 
 ### Install Windows updates
 
